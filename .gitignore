@@ -1,0 +1,8 @@
+.idea/
+*/.idea/
+*.swp
+.vagrant/
+*.pyc
+.project
+.pydevproject
+.settings
